@@ -1,2 +1,2 @@
 <h1>Clean code priciples</h1>
-<p>seguiremos de cerca los principios de construccion para un codigo mantenible y reutiblizable a largo plazo.</p>
+<p>We will closely follow construction principles for long-term maintainable and reusable code.</p>
